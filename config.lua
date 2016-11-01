@@ -1,9 +1,9 @@
 bot_token = "270781327:AAGu494CEz1pfUBi6_K_XsWOj5TDqMTbtyg"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
-sudo_name = "Amirhossin Barahouee"
-sudo_id = 263500706
+sudo_name = "Amirhossin"
+sudo_id = 294094951
 admingp = -051298105
-sudo_num = "989351372038"
+sudo_num = "+63 9380279869"
 sudo_user = "A_M_I_R_BRA"
 sudo_ch = "Bot_saz_chanll"
