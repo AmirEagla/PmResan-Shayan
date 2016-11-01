@@ -5,5 +5,5 @@ sudo_name = "Amirhossin"
 sudo_id = 294094951
 admingp = -051298105
 sudo_num = "+63 9380279869"
-sudo_user = "A_M_I_R_BRA"
+sudo_user = "Xx_Shah_Amiram_xX"
 sudo_ch = "Bot_saz_chanll"
