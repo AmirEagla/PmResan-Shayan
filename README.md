@@ -1,6 +1,5 @@
-<a href="telegram.me/CleverGuy"><h1>CleverGuy</h1></a>
 <h2>payam resan umbrella team :D</h2><br><br><br>
-<h1><mark>نصب ربات</mark></h1>
+<h1><mark>آموزش نصب ربات</mark></h1>
 <pre>
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
@@ -19,11 +18,5 @@ sudo luarocks install serpent
 و در اخر
 
 lua bot.lua
-</pre>
-<h1>چنل ما</h1>
-<a href="telegram.me/beyondteam"><h3>beyond</h3></a>
-<h1>خز کننده</h1>
-<a href="telegram.me/CleverGuy"><h3>CleverGuy</h3></a>
 
-سوالی بود در خدمتم
-موفق باشید
+.موفق باشید
