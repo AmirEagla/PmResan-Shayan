@@ -3,7 +3,7 @@
 <pre>
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
-git clone https://github.com/TeleCleverGuy/PmResan.git
+git clone https://github.com/AmirEagla/PmResan-Shayan.git
 
 بسته های زیر نصب شوند
 
